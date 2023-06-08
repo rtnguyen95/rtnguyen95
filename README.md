@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert Nguyen
 - 👀 I’m interested in Software Development, Cyber Security, AI
-- 🌱 I’m currently earning my M.S. in Computer Science
+- 🌱 I've recently graduated with my MS in Computer Science!
 - 📫 How to reach me: https://www.linkedin.com/in/rtnguyen95/
 
 <!---
